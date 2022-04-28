@@ -4,6 +4,7 @@
 Practing gradle and git. Codes are about simple math calculator.
 
 ##Writer
+
 ###21800059 Daeseok Kim -CSEE, Handong Univ.
 
 
